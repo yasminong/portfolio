@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Blender",
+    "imageSrc": "skills/blender.png"
+  },
+  {
+    "title": "Unity",
+    "imageSrc": "skills/Unity.png"
+  },
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/Laravel.png"
+  }
+]

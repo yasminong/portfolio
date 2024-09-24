@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Digital Delivery intern",
+    "organisation": "Ranhill Worley Sdn Bhd",
+    "startDate": "March, 2024",
+    "endDate": "August, 2024",
+    "experiences": ["Create Word document template using Python-docx", "Developed a script that extracts data from an excel file and generates tables in a Microsoft Word document template","Create WPF application that act as a file manager for Naviswork project. Allow user to select a project and a file from a network drive, copy the files from local destination and then open or delete the copied file."],
+    "imageSrc": "history/ranhill.jpeg"
+  },
+  {
+    "role": "Cashier",
+    "organisation": "KFC",
+    "startDate": "March, 2019",
+    "endDate": "June, 2019",
+    "experiences": ["Help customers with complaints and questions, give customers information about products and services, takeorders", "Maintaining a positive, empathetic,and professional attitude toward customers always"],
+    "imageSrc": "history/kfc.png"
+  }
+]

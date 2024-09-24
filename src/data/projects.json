@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Petakom Inventory Mart",
+    "imageSrc": "projects/project-img1.png",
+    "description": "This is a project made to manage inventory of Petakom mart that consist of Duty Roster module",
+    "skills": ["Laravel", "PHP", "PHPmyAdmin"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Music Library Application",
+    "imageSrc": "projects/project-img2.png",
+    "description": "This is a project made to search, insert, delete and sort the music library data of the desktop application",
+    "skills": ["C", "CodeBlocks", ".exe"]
+  },
+  {
+    "title": "VR Safety Training",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to do a safety training when face an emergency situation ",
+    "skills": ["Unity3D", "C#", "Oculus"]
+  },
+  {
+    "title": "Sign Language using Augmented Reality",
+    "imageSrc": "projects/project.png",
+    "description": "This is a mobile application project made to do learn sign language ",
+    "skills": ["Unity3D", "Vuforia", "Blender", "C#"]
+  },
+  {
+    "title": "Resume using AR",
+    "imageSrc": "projects/project.png",
+    "description": "This is an Augmented Reality project made to do a virtual resume using a card ",
+    "skills": ["Unity3D", "Vuforia", "Blender", "C#"]
+  }
+]
